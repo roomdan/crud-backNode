@@ -1,0 +1,22 @@
+{
+  "name": "crud-proj-backend",
+  "version": "1.0.0",
+  "description": "practice project for http methods and server created whit node.js whitout frameworks, validate the petitions by postman and create a initial logic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project",
+    "crud"
+  ],
+  "author": "Daniel Cubibillos WebDevFullStack",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "nodemon": "^2.0.14"
+  }
+}
